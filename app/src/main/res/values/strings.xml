@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Meu Progresso em Kotlin</string>
+
+    <string name="app_main_tv_title">Está na hora de votar!</string>
+    <string name="app_main_tv_subtitle">Primeiro, nos informe o seu nome e a sua idade</string>
+    <string name="app_main_et_name">Digite o seu nome</string>
+    <string name="app_main_et_age">Digite a sua idade</string>
+    <string name="app_main_bt_continue">Continuar</string>
+    
+    <string name="app_votescreen_tv_title">Hora de votar!</string>
+    <string name="app_votescreen_tv_subtitle">Digite o numero do seu candidato</string>
+    <string name="app_votescreen_et_elect">Digite o numero do eleito</string>
+    <string name="app_votescreen_bt_vote">Verificar Voto</string>
+    <string name="app_votescreen_bt_confirm_vote">Confirmar Voto</string>
+</resources>
